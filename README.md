@@ -1,2 +1,3 @@
 # Chess-2-
 A new chess! (Recommended for 400 elo and more)
+STILL ON BETA PLEASE DONT REPORT CREATE DISCUSSIONS TO MENTION BUGS
